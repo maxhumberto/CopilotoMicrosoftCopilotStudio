@@ -56,7 +56,10 @@ Salve o arquivo como **RequisitosViagem.xlsx** no OneDrive ou SharePoint.
 4. Configure as boas-vindas, ex:  
    > "Olá! Eu sou o Agente de Viagens da DIO. Pergunte-me sobre requisitos para viajar ao exterior."  
 
-![Exemplo tela Copilot](./imagens/copilot-config.png)
+<p align="center">
+  <img src="https://github.com/maxhumberto/CopilotoMicrosoftCopilotStudio/blob/main/Imagem1.jpg" width="45%" />
+  <img src="https://github.com/maxhumberto/CopilotoMicrosoftCopilotStudio/blob/main/Imagem2.jpg" width="45%" />
+</p>
 
 ---
 
